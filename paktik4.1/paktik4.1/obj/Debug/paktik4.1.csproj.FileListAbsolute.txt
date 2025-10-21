@@ -1,0 +1,7 @@
+C:\Users\zyrex\Documents\icha X PPLG 2\paktik4.1\paktik4.1\bin\Debug\paktik4.1.exe.config
+C:\Users\zyrex\Documents\icha X PPLG 2\paktik4.1\paktik4.1\bin\Debug\paktik4.1.exe
+C:\Users\zyrex\Documents\icha X PPLG 2\paktik4.1\paktik4.1\bin\Debug\paktik4.1.pdb
+C:\Users\zyrex\Documents\icha X PPLG 2\paktik4.1\paktik4.1\obj\Debug\paktik4.1.csproj.AssemblyReference.cache
+C:\Users\zyrex\Documents\icha X PPLG 2\paktik4.1\paktik4.1\obj\Debug\paktik4.1.csproj.CoreCompileInputs.cache
+C:\Users\zyrex\Documents\icha X PPLG 2\paktik4.1\paktik4.1\obj\Debug\paktik4.1.exe
+C:\Users\zyrex\Documents\icha X PPLG 2\paktik4.1\paktik4.1\obj\Debug\paktik4.1.pdb
