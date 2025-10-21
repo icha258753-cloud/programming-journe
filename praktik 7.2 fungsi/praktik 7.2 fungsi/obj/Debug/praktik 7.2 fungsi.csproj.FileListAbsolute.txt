@@ -1,0 +1,8 @@
+D:\sitiafriani_xpplg1\praktik 7.2 fungsi\praktik 7.2 fungsi\bin\Debug\praktik 7.2 fungsi.exe.config
+D:\sitiafriani_xpplg1\praktik 7.2 fungsi\praktik 7.2 fungsi\bin\Debug\praktik 7.2 fungsi.exe
+D:\sitiafriani_xpplg1\praktik 7.2 fungsi\praktik 7.2 fungsi\bin\Debug\praktik 7.2 fungsi.pdb
+D:\sitiafriani_xpplg1\praktik 7.2 fungsi\praktik 7.2 fungsi\obj\Debug\praktik 7.2 fungsi.csproj.AssemblyReference.cache
+D:\sitiafriani_xpplg1\praktik 7.2 fungsi\praktik 7.2 fungsi\obj\Debug\praktik 7.2 fungsi.csproj.SuggestedBindingRedirects.cache
+D:\sitiafriani_xpplg1\praktik 7.2 fungsi\praktik 7.2 fungsi\obj\Debug\praktik 7.2 fungsi.csproj.CoreCompileInputs.cache
+D:\sitiafriani_xpplg1\praktik 7.2 fungsi\praktik 7.2 fungsi\obj\Debug\praktik 7.2 fungsi.exe
+D:\sitiafriani_xpplg1\praktik 7.2 fungsi\praktik 7.2 fungsi\obj\Debug\praktik 7.2 fungsi.pdb
