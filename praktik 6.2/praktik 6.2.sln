@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "praktik 6.2", "praktik 6.2\praktik 6.2.csproj", "{6A1475C6-C1CE-4A12-B16B-43478F060BEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A1475C6-C1CE-4A12-B16B-43478F060BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A1475C6-C1CE-4A12-B16B-43478F060BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A1475C6-C1CE-4A12-B16B-43478F060BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A1475C6-C1CE-4A12-B16B-43478F060BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD73E720-4512-4D15-BB84-FD2CE3E25DF5}
+	EndGlobalSection
+EndGlobal
