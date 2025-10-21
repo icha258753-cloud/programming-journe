@@ -1,0 +1,8 @@
+D:\fIta amalia_X PPLG 2\praktik 6.1\praktik 6.1\bin\Debug\praktik 6.1.exe.config
+D:\fIta amalia_X PPLG 2\praktik 6.1\praktik 6.1\bin\Debug\praktik 6.1.exe
+D:\fIta amalia_X PPLG 2\praktik 6.1\praktik 6.1\bin\Debug\praktik 6.1.pdb
+D:\fIta amalia_X PPLG 2\praktik 6.1\praktik 6.1\obj\Debug\praktik 6.1.csproj.AssemblyReference.cache
+D:\fIta amalia_X PPLG 2\praktik 6.1\praktik 6.1\obj\Debug\praktik 6.1.csproj.SuggestedBindingRedirects.cache
+D:\fIta amalia_X PPLG 2\praktik 6.1\praktik 6.1\obj\Debug\praktik 6.1.csproj.CoreCompileInputs.cache
+D:\fIta amalia_X PPLG 2\praktik 6.1\praktik 6.1\obj\Debug\praktik 6.1.exe
+D:\fIta amalia_X PPLG 2\praktik 6.1\praktik 6.1\obj\Debug\praktik 6.1.pdb
