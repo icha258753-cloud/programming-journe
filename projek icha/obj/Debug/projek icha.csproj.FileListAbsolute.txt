@@ -1,0 +1,10 @@
+D:\New folder\icha alsyaffa sessa\projek icha\projek icha\bin\Debug\projek icha.exe.config
+D:\New folder\icha alsyaffa sessa\projek icha\projek icha\bin\Debug\projek icha.exe
+D:\New folder\icha alsyaffa sessa\projek icha\projek icha\bin\Debug\projek icha.pdb
+D:\New folder\icha alsyaffa sessa\projek icha\projek icha\obj\Debug\projek icha.csproj.AssemblyReference.cache
+D:\New folder\icha alsyaffa sessa\projek icha\projek icha\obj\Debug\projek_icha.Form1.resources
+D:\New folder\icha alsyaffa sessa\projek icha\projek icha\obj\Debug\projek_icha.Properties.Resources.resources
+D:\New folder\icha alsyaffa sessa\projek icha\projek icha\obj\Debug\projek icha.csproj.GenerateResource.cache
+D:\New folder\icha alsyaffa sessa\projek icha\projek icha\obj\Debug\projek icha.csproj.CoreCompileInputs.cache
+D:\New folder\icha alsyaffa sessa\projek icha\projek icha\obj\Debug\projek icha.exe
+D:\New folder\icha alsyaffa sessa\projek icha\projek icha\obj\Debug\projek icha.pdb
