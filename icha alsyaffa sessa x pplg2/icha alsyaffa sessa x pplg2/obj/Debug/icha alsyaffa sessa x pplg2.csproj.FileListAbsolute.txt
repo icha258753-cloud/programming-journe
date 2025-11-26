@@ -1,0 +1,8 @@
+D:\FITA AMALIA X PPLG 2\icha alsyaffa sessa x pplg2\icha alsyaffa sessa x pplg2\bin\Debug\icha alsyaffa sessa x pplg2.exe.config
+D:\FITA AMALIA X PPLG 2\icha alsyaffa sessa x pplg2\icha alsyaffa sessa x pplg2\bin\Debug\icha alsyaffa sessa x pplg2.exe
+D:\FITA AMALIA X PPLG 2\icha alsyaffa sessa x pplg2\icha alsyaffa sessa x pplg2\bin\Debug\icha alsyaffa sessa x pplg2.pdb
+D:\FITA AMALIA X PPLG 2\icha alsyaffa sessa x pplg2\icha alsyaffa sessa x pplg2\obj\Debug\icha alsyaffa sessa x pplg2.csproj.AssemblyReference.cache
+D:\FITA AMALIA X PPLG 2\icha alsyaffa sessa x pplg2\icha alsyaffa sessa x pplg2\obj\Debug\icha alsyaffa sessa x pplg2.csproj.CoreCompileInputs.cache
+D:\FITA AMALIA X PPLG 2\icha alsyaffa sessa x pplg2\icha alsyaffa sessa x pplg2\obj\Debug\icha alsyaffa sessa x pplg2.exe
+D:\FITA AMALIA X PPLG 2\icha alsyaffa sessa x pplg2\icha alsyaffa sessa x pplg2\obj\Debug\icha alsyaffa sessa x pplg2.pdb
+D:\FITA AMALIA X PPLG 2\icha alsyaffa sessa x pplg2\icha alsyaffa sessa x pplg2\obj\Debug\icha alsyaffa sessa x pplg2.exe.config
