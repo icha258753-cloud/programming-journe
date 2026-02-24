@@ -1,0 +1,21 @@
+/* background image (tugas 2) */
+body {
+    margin: 0;
+    height: 100vh;
+
+    background-image: url("bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    text-align: center;
+    padding-top: 120px;
+    font-family: Arial;
+}
+
+/* warna teks (tugas 1) */
+.nama  { color: beige; }
+.rgb   { color: bisque; }
+.rgba  { color: burlywood; }
+.hsl   { color: darkgrey; }
+.hsla  { color: darkkhaki; }
