@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-color: #ffb6c1; /* warna pink pastel */
+    text-align: center;
+}
+
+.menu li {
+    display: inline-block; /* WAJIB sesuai tugas */
+    margin: 0;
+}
+
+.menu a {
+    display: block;
+    padding: 15px 25px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.menu a:hover {
+    background-color: #ff8fab;
+}
