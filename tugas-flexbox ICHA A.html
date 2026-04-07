@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gallery Flexbox</title>
+
+<style>
+body{
+    font-family: Arial, sans-serif;
+}
+
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;     /* batasi lebar gallery */
+}
+
+.gallery img{
+    width: 25%;
+    height: 120px;    /* kecilkan tinggi */
+    object-fit: cover;
+    padding: 5px;
+    box-sizing: border-box;
+}
+</style>
+
+</head>
+<body>
+
+<h2>Gallery Foto</h2>
+
+<div class="gallery">
+    <img src="c:\Users\zyrex\Downloads\HTML\css\WhatsApp Image 2026-03-31 at 13.45.55.jpeg">
+    <img src="c:\Users\zyrex\Downloads\HTML\css\WhatsApp Image 2026-03-31 at 13.45.55.jpeg">
+    <img src="c:\Users\zyrex\Downloads\HTML\css\WhatsApp Image 2026-03-31 at 13.45.55.jpeg">
+    <img src="c:\Users\zyrex\Downloads\HTML\css\WhatsApp Image 2026-03-31 at 13.45.55.jpeg">
+    <img src="c:\Users\zyrex\Downloads\HTML\css\WhatsApp Image 2026-03-31 at 13.45.55.jpeg">
+    <img src="c:\Users\zyrex\Downloads\HTML\css\WhatsApp Image 2026-03-31 at 13.45.55.jpeg">
+    
+</div>
+
+</body>
+</html>
