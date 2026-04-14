@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tugas Z-Index Keren</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .container {
+            position: relative;
+            width: 100%;
+            height: 400px;
+        }
+
+        img {
+            width: 220px;
+            height: 220px;
+            position: absolute;
+            border-radius: 15px;
+            border: 5px solid rgb(250, 127, 213);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.3);7
+            transition: 0.3s;
+        }
+
+        img:hover {
+            transform: scale(1.1);
+        }
+
+        /* Depan */
+        .gambar1 {
+            top: 50px;
+            left: 80px;
+            z-index: 3;
+        }
+
+        /* Tengah */
+        .gambar2 {
+            top: 100px;
+            left: 180px;
+            z-index: 2;
+        }
+
+        /* Belakang */
+        .gambar3 {
+            top: 150px;
+            left: 280px;
+            z-index: 1;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Tugas CSS Z-Index</h1>
+
+    <div class="container">
+        <img src="c:\Users\zyrex\Downloads\HTML\css\WhatsApp Image 2026-04-07 at 10.47.05.jpeg" class="gambar1">
+        <img src="c:\Users\zyrex\Downloads\HTML\css\WhatsApp Image 2026-04-07 at 10.47.05.jpeg" class="gambar2">
+        <img src="c:\Users\zyrex\Downloads\HTML\css\WhatsApp Image 2026-04-07 at 10.47.05.jpeg" class="gambar3">
+    </div>
+
+</body>
+</html>

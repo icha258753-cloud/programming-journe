@@ -1,28 +1,59 @@
 body {
     font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
 }
 
-.menu {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    background-color: #ffb6c1; /* warna pink pastel */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
     text-align: center;
 }
 
-.menu li {
-    display: inline-block; /* WAJIB sesuai tugas */
+nav {
+    background-color: #444;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
     margin: 0;
+    padding: 0;
+    list-style: none;
 }
 
-.menu a {
-    display: block;
-    padding: 15px 25px;
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
     text-decoration: none;
-    color: white;
-    font-weight: bold;
 }
 
-.menu a:hover {
-    background-color: #ff8fab;
+.container {
+    padding: 20px;
+    text-align: center;
+}
+
+button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
